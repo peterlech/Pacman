@@ -20,7 +20,7 @@ private ArrayList actors;
 private ArrayList walls;
 
 private Pac p;
-
+// randomowy komentarz
 public Pacman() {
     spriteCache = new SpiritCache();
     JFrame okno = new JFrame(".: Pacman :.");
