@@ -18,7 +18,7 @@ public BufferStrategy strategia;
 private SpiritCache spriteCache;
 private ArrayList actors;
 private ArrayList walls;
-
+//sasd
 private Pac p;
 
 public Pacman() {
